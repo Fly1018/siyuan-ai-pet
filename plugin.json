@@ -1,0 +1,34 @@
+{
+  "name": "siyuan-ai-pet",
+  "author": "Fly1018",
+  "url": "https://github.com/Fly1018/siyuan-ai-pet",
+  "version": "0.15.1",
+  "minAppVersion": "3.7.0",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "browser-desktop"
+  ],
+  "displayName": {
+    "default": "Doc Robot Pet",
+    "zh_CN": "AI 文档机器人",
+    "en_US": "Doc Robot Pet"
+  },
+  "description": {
+    "default": "Doc Robot Pet for SiYuan.",
+    "zh_CN": "AI 文档机器人：思源笔记插件。",
+    "en_US": "Doc Robot Pet for SiYuan."
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.zh-CN.md",
+    "en_US": "README.md"
+  },
+  "keywords": [
+    "siyuan-ai-pet",
+    "siyuan"
+  ]
+}
